@@ -17,3 +17,4 @@ player_color = (255, 0, 0) # Red is the starting color
 
 
 # Game loop
+
